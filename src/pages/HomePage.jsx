@@ -17,7 +17,7 @@ const HomePage = () => {
         <div className="hero-overlay bg-opacity-80">
           <div className="hero-content text-center">
             <div className="max-w-md font-serif">
-              <h1 className="text-5xl font-bold text-white font-mono mt-8">
+              <h1 className="text-4xl font-bold text-white font-mono italic mt-8">
                 CNETECH SYSTEMS
               </h1>
               <p className="py-8 text-white font-mono font-semibold">
