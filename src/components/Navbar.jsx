@@ -95,13 +95,10 @@ const Navbar = () => {
             </div>
 
             <div className="navbar-end flex gap-2">
-              <button
-                to="/login"
-                className="rounded-md px-4 py-2 text-gray-900 bg-yellow-500 font-mono font-semibold hover:text-[#800000] hover:bg-gray-200"
-                type="submit"
-              >
-                Get Started
-              </button>
+              <a
+                to="#"
+                className="rounded-md px-4 py-2 text-gray-900 bg-gray-900 font-mono font-semibold hover:text-gray-900 hover:bg-gray-900"
+              ></a>
             </div>
           </>
         </div>
