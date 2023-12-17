@@ -22,7 +22,7 @@ const HomePage = () => {
               </h1>
               <p className="py-8 text-white font-mono font-semibold">
                 CNETECH SYSTEMS: Revolutionizing the digital landscape with
-                cutting-edge ingenuity! We're not just developers; we're
+                cutting-edge ingenuity! We're not just Software Engineers; we're
                 architects of seamless experiences. Specializing in MERN stack
                 technology, we sculpt web and mobile apps that transcend
                 expectations. Elevate your digital presence with our
