@@ -28,7 +28,7 @@ const Navbar = () => {
                 className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow text-white hover:text-yellow-500 bg-gray-900 rounded-box w-48"
               >
                 <li>
-                  <Link className="font-semibold" to="/home">
+                  <Link className="font-semibold" to="/">
                     Home
                   </Link>
                 </li>
@@ -43,7 +43,7 @@ const Navbar = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link className="font-semibold" to="/contact">
+                  <Link className="font-semibold" to="/contactus">
                     Contact Us
                   </Link>
                 </li>
