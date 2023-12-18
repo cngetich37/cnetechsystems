@@ -49,10 +49,10 @@ const Navbar = () => {
                 </li>
               </ul>
             </div>
-            <img src={cnetechImage} className="h-8" />
+            <img src={cnetechImage} className="h-8 mr-2" />
             <Link
               to="/"
-              className="btn btn-ghost normal-case text-xl font-mono hover:bg-yellow-500 hover:text-gray-900"
+              className=" rounded-md p-2 normal-case text-xl font-mono font-semibold hover:bg-yellow-500 hover:text-gray-900"
             >
               CNETECH SYSTEMS
             </Link>
